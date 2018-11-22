@@ -88,7 +88,7 @@ download_sources()
     "http://mirrors.nju.edu.cn/gnu/binutils/binutils-$v_binutils.tar.bz2"
     "http://mirrors.nju.edu.cn/gnu/gcc/gcc-$v_gcc/gcc-$v_gcc.tar.xz"
     "http://mirrors.nju.edu.cn/gnu/gmp/gmp-$v_gmp.tar.xz"
-    "http://mirrors.nju.edu.cng/gnu/mpfr/mpfr-$v_mpfr.tar.xz"
+    "http://mirrors.nju.edu.cn/gnu/mpfr/mpfr-$v_mpfr.tar.xz"
     "http://mirrors.nju.edu.cn/gnu/mpc/mpc-$v_mpc.tar.gz"
     "http://isl.gforge.inria.fr/isl-$v_isl.tar.xz"
   )
