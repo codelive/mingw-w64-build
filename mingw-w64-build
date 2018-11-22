@@ -85,11 +85,11 @@ download_sources()
   git clone --depth 1 git://git.code.sf.net/p/mingw-w64/mingw-w64 "mingw-w64-git" || error_exit
 
   local urls=(
-    "http://ftp.gnu.org/gnu/binutils/binutils-$v_binutils.tar.bz2"
-    "http://ftp.gnu.org/gnu/gcc/gcc-$v_gcc/gcc-$v_gcc.tar.xz"
-    "http://ftp.gnu.org/gnu/gmp/gmp-$v_gmp.tar.xz"
-    "http://ftp.gnu.org/gnu/mpfr/mpfr-$v_mpfr.tar.xz"
-    "http://ftp.gnu.org/gnu/mpc/mpc-$v_mpc.tar.gz"
+    "http://mirrors.nju.edu.cn/gnu/binutils/binutils-$v_binutils.tar.bz2"
+    "http://mirrors.nju.edu.cn/gnu/gcc/gcc-$v_gcc/gcc-$v_gcc.tar.xz"
+    "http://mirrors.nju.edu.cn/gnu/gmp/gmp-$v_gmp.tar.xz"
+    "http://mirrors.nju.edu.cng/gnu/mpfr/mpfr-$v_mpfr.tar.xz"
+    "http://mirrors.nju.edu.cn/gnu/mpc/mpc-$v_mpc.tar.gz"
     "http://isl.gforge.inria.fr/isl-$v_isl.tar.xz"
   )
 
